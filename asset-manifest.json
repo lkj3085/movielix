@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movielix/static/css/main.5f3c5906.chunk.css",
+    "main.js": "/movielix/static/js/main.6b141d59.chunk.js",
+    "main.js.map": "/movielix/static/js/main.6b141d59.chunk.js.map",
+    "runtime-main.js": "/movielix/static/js/runtime-main.2d29bb36.js",
+    "runtime-main.js.map": "/movielix/static/js/runtime-main.2d29bb36.js.map",
+    "static/js/2.7512fa1f.chunk.js": "/movielix/static/js/2.7512fa1f.chunk.js",
+    "static/js/2.7512fa1f.chunk.js.map": "/movielix/static/js/2.7512fa1f.chunk.js.map",
+    "index.html": "/movielix/index.html",
+    "static/css/main.5f3c5906.chunk.css.map": "/movielix/static/css/main.5f3c5906.chunk.css.map",
+    "static/js/2.7512fa1f.chunk.js.LICENSE.txt": "/movielix/static/js/2.7512fa1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d29bb36.js",
+    "static/js/2.7512fa1f.chunk.js",
+    "static/css/main.5f3c5906.chunk.css",
+    "static/js/main.6b141d59.chunk.js"
+  ]
+}
